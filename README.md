@@ -8,6 +8,7 @@ Webpack
 
 NPM / NVM / YARN
 - package.json
+- dependency vs dev-dependency
 - 
 Best Practices :
 	Javascript
@@ -18,6 +19,7 @@ Best Practices :
   
 -------------------------
 **Node**
+- LTS ?
 - how routing works in express
 - middleware in node
 - async quee parallel .all .all settled
@@ -31,13 +33,12 @@ Best Practices :
 
 - npm vs yarn
 
-		dependency vs dev-dependency
-how to differenciate between dev and prod
+
+- how to differenciate between dev and prod
 NODE_ENV
 
-LTS ?
 
-localization in node ?
+- localization in node ?
 
 autenticating and authorizing api?
 
